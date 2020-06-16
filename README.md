@@ -1,0 +1,2 @@
+# Bootstrap
+Static page
